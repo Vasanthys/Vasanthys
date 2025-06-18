@@ -16,7 +16,8 @@ A real-time embedded dashboard simulation with:
 - Wiper control (PWM)
 - Turn signal indicators
 - LCD (4-bit mode) with Proteus simulation  
-🔗 [View on GitHub](https://github.com/vasanthys/vehicle-dashboard-canbus)
+🔗 🔗 [View on GitHub](https://github.com/vasanthys/vehicle-dashboard-canbus)
+
 
 ---
 
