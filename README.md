@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Vasanthys/Vasanthys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Vasanthakumar M
 
-Here are some ideas to get you started:
+🎓 Electronics and Instrumentation Engineering graduate  
+🚀 Passionate about Embedded Systems and Firmware Development  
+🔧 Skilled in C, Embedded C, ARM7, UART, I2C, CAN Protocol  
+🛠️ Tools: Keil, Proteus, Arduino, STM32CubeIDE, CANoe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Projects
+
+### 🚗 Vehicle Dashboard using CAN Bus
+A real-time embedded dashboard simulation with:
+- Fuel monitoring (ADC)
+- Wiper control (PWM)
+- Turn signal indicators
+- LCD (4-bit mode) with Proteus simulation  
+🔗 [View on GitHub](https://github.com/vasanthys/vehicle-dashboard-canbus)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: vasanthysmp@gmail.com
+- 📱 Phone: 9361729057
+- 💼 LinkedIn: [linkedin.com/in/vasanthakumar](https://linkedin.com/in/yourprofile)
+
+---
+
+*Built with ❤️ by Vasanthakumar*
